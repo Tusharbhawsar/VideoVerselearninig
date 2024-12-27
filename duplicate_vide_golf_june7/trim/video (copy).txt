@@ -1,0 +1,4 @@
+file 'input1.mp4'
+file 'input2.mp4'
+file 'input3.mp4'
+file 'input4.mp4'

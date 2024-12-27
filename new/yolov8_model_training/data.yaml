@@ -1,0 +1,6 @@
+train : /home/multi-sy-23/yolov8_model_training/dataset3/images/train
+val : /home/multi-sy-23/yolov8_model_training/dataset3/images/val
+
+nc: 1
+
+names: ["ball"]
